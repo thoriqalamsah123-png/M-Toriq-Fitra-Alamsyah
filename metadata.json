@@ -1,0 +1,10 @@
+{
+  "name": "Sistem Administrasi Organisasi",
+  "description": "Sistem Administrasi Organisasi terpadu dengan scan OCR KTP otomatis via Gemini, sinkronisasi Google Sheets & Drive, analitik, dan manajemen anggota.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
